@@ -1,0 +1,8 @@
+/* wildcard allows for 0 padding and making the footer
+fully visible */
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+

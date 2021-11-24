@@ -1,2 +1,2 @@
 # professional-portfolio
-Professional Portfolio of Michelle Wood
+A Professional Portfolio of Michelle Wood

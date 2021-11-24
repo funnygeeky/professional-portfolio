@@ -36,6 +36,7 @@ header nav {
 /* displays the nav inline */
 header nav ul li {
     display: inline;
+    margin: 12px;
 }
     
 

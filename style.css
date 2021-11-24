@@ -8,7 +8,7 @@ box-sizing: border-box;
 /* apply styles to the body */
 body
 {
-    color:beige
+    color:beige;
     font-family:Helvetica, Arial, sans-serif;
 }
 /* apply styles to the header */
@@ -28,4 +28,17 @@ header a {
     text-decoration: none;
     color: moccasin;
 }
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+/* displays the nav inline */
+header nav ul li {
+    display: inline;
+}
+    
+
+
+
 
